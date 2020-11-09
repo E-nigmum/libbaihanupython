@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de cóigo aberto(Open Sourc
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.com/Dev-lucas-eduardo/libbaihanupython.svg?branch=main)](https://travis-ci.com/Dev-lucas-eduardo/libbaihanupython)
+
 Suportada a versão 3 de Python
 
 Para instalar no Windows:
