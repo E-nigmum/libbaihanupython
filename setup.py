@@ -98,7 +98,7 @@ PACKAGE = "libbaihanupython"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Lucas Eduardo Abreu Silva"
-AUTHOR_EMAIL = "lucasabreusilva.98@gmail.com ou lucaseduardoabreusilva@gmail.com"
+AUTHOR_EMAIL = "lucasabreusilva.98@gmail.com"
 URL = "https://github.com/Dev-lucas-eduardo/libbaihanupython"
 VERSION = __import__(PACKAGE).__version__
 
