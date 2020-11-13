@@ -8,6 +8,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.com/Dev-lucas-eduardo/libbaihanupython.svg?branch=main)](https://travis-ci.com/Dev-lucas-eduardo/libbaihanupython)
 [![Updates](https://pyup.io/repos/github/Dev-lucas-eduardo/libbaihanupython/shield.svg)](https://pyup.io/repos/github/Dev-lucas-eduardo/libbaihanupython/)
 [![Python 3](https://pyup.io/repos/github/Dev-lucas-eduardo/libbaihanupython/python-3-shield.svg)](https://pyup.io/repos/github/Dev-lucas-eduardo/libbaihanupython/)
+[![codecov](https://codecov.io/gh/Baihanu/libbaihanupython/branch/main/graph/badge.svg)](https://codecov.io/gh/Baihanu/libbaihanupython)
 
 Suportada a versão 3 de Python
 
