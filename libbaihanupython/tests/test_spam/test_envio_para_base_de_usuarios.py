@@ -1,8 +1,5 @@
 from unittest.mock import Mock
-
 import pytest
-
-from libbaihanupython.spam.enviador_de_email import Enviador
 from libbaihanupython.spam.main import EnviadorDeSpam
 from libbaihanupython.spam.modelos import Usuario
 
